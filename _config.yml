@@ -61,7 +61,7 @@ dap:
   # USPS    - Postal Service
   # SBA     - Small Business Administration
   # SSA     - Social Security Administration
-  agency: GSA
+  agency: GS1A
   # Optional, this will append &subagency= to the code snippet
   subagency:
 
