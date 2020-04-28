@@ -67,7 +67,7 @@ dap:
 
 # Site Navigation
 primary_navigation:
-  - name: Home
+  - name: Hodme
     url: /
   - name: Blog
     url: /blog/
