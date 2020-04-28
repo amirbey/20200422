@@ -77,7 +77,7 @@ primary_navigation:
     url: /document-with-sidenav/
   - name: Document submenu
     children:
-      - name: Navigation link
+      - name: Navignation link
         url: "#main-content"
       - name: Navigation link
         url: "#main-content"
